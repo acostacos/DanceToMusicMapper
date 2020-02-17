@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Carlo Acosta/Desktop/Thesis Dance Mapper/poi-4.1.1/poi-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Carlo Acosta/Desktop/Thesis Dance Mapper/poi-4.1.1/poi-examples-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Carlo Acosta/Desktop/Thesis Dance Mapper/poi-4.1.1/poi-excelant-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Carlo Acosta/Desktop/Thesis Dance Mapper/poi-4.1.1/poi-ooxml-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Carlo Acosta/Desktop/Thesis Dance Mapper/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Carlo Acosta/Desktop/Thesis Dance Mapper/poi-4.1.1/poi-scratchpad-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Carlo Acosta/Desktop/Thesis Dance Mapper/poi-4.1.1/commons-compress-1.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Carlo Acosta/Desktop/Thesis Dance Mapper/poi-4.1.1/xmlbeans-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Carlo Acosta/Desktop/Thesis Dance Mapper/poi-4.1.1/commons-collections4-4.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
