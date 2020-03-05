@@ -74,7 +74,7 @@ public class Excel
 		return data;
 	}
 	
-	//include start time but excludes end time
+	//include start time and end time
 	public ArrayList<double[]> GetColumnsForJointByTime(String sheet, String joint, double startTime, double endTime){
 		if(!this.ValidateSheetName(sheet)) {
 			return null;
@@ -87,7 +87,7 @@ public class Excel
 		
 		for(int i=1; i<sh.getLastRowNum()+1; i++) {
 			Row r = sh.getRow(i);
-			if(r.getCell(0).getNumericCellValue()>=endTime) {
+			if(r.getCell(0).getNumericCellValue()>endTime) {
 				break;
 			}
 			if(r.getCell(0).getNumericCellValue()>=startTime) {
